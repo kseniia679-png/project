@@ -5,9 +5,9 @@ title: ohjelmointi
 
 # Tervetuloa projektisivustoon! 👋
 
-Tämä on verkkosivusto, joka on rakennettu **Jekyll**-alustalla ja käyttöönottoa GitHub Pages:issa.
+Tämä on verkkosivusto, joka on rakennettu **Jekyll**-alustalla ja käyttöönottua GitHub Pages:issa.
 
-## 🚀 Ominaisuudet
+## Ominaisuudet
 
 - 🚀 Automatisoitu käyttöönotto GitHub Actions:lla
 - 📝 Helppo muokata Markdown-muodossa
@@ -16,61 +16,18 @@ Tämä on verkkosivusto, joka on rakennettu **Jekyll**-alustalla ja käyttööno
 
 ---
 
-## 💻 Koodauksesta
+## Pääsy sivustoon
 
-### Mitä on koodaus?
-
-Koodaus on ohjeita antamista tietokoneelle siitä, mitä sen tulee tehdä. Se on kuin resepti, joka kertoo vaihe vaiheelta, kuinka tehdään jotakin.
-
-![Koodaus](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&fit=crop)
-
-### Koodauksen perusteet
-
-**Koodaus sisältää:**
-- 📝 Muuttuujat - tiedon säilytys
-- 🔄 Silmukat - toistaminen
-- ❓ Ehdot - päätöksenteko
-- 🔧 Funktiot - uudelleenkäytettävät koodin pätkät
-
-### Jekyll ja Markdown
-
-Tämä sivusto käyttää **Markdown**-kielistä sisällön kirjoittamiseen:
-
-```markdown
-# Otsikko
-## Alaotsikko
-**Lihavointi**
-*Kursivointi*
-- Lista
-- Kohta
-```
-
-### HTML ja CSS
-
-Jekyll muuntaa Markdown-tiedostot HTML:ksi, jota selaimet voivat näyttää:
-
-```html
-<h1>Otsikko</h1>
-<p><strong>Lihavointi</strong></p>
-```
-
-```css
-h1 {
-  color: #333;
-  font-size: 2em;
-}
-```
+Sivusto on käytettävissä osoitteessa: [https://kseniia679-png.github.io/project](https://kseniia679-png.github.io/project)
 
 ---
 
-## 🎨 Teeman muuttaminen
+## Miten muokata
 
-Muokkaa `_config.yml`:ää vaihtaaksesi teemaa:
-
-```yaml
-theme: minima
-```
+- Muokkaa sisältöä .md tiedostoissa
+- Pushaa muutokset main branchiin
+- GitHub Actions rakentaa ja ottaa käyttöön sivuston automaattisesti
 
 ---
 
-**Aloita koodaamista nyt!** 🚀
+**Iloisia muokkauksesta!** ✨
