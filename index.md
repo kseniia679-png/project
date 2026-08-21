@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Tervetuloa
+title: ohjelmointi
 ---
 
 # Tervetuloa projektisivustoon! 👋
